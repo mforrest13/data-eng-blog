@@ -1,0 +1,39 @@
+title: Data Eng Blog
+description: Michelle's blog based on Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: localhost for now
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+<<<<<<< HEAD
+#Header Option
+#header: large
+=======
+# Header Option
+# header: large
+>>>>>>> 5ba4769a6d1b176cb9bf5e4aab74bf07fefcfcea
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+# - title: Contact
+#  url: /contact
+
+social:
+  github: mforrest13
+  twitter: 
+  facebook: 
+  email: michelle.forrest@wattpad.com
+  linkedin: 
+
+google_analytics: 
+
+disqus:
+    shortname: mforrest13
