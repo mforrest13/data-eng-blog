@@ -5,13 +5,8 @@ url: https://mforrest13.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-<<<<<<< HEAD
-#Header Option
-#header: large
-=======
 # Header Option
 # header: large
->>>>>>> 5ba4769a6d1b176cb9bf5e4aab74bf07fefcfcea
 
 markdown: kramdown
 highlighter: rouge
