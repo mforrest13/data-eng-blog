@@ -1,7 +1,8 @@
 title: Data Eng Blog
 description: Michelle's blog based on Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://mforrest13.github.io
+#url: https://mforrest13.github.io
+url: localhost
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
